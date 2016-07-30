@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The Guardian Reader</string>
+    <string name="empty_list">Could not find any articles.</string>
+    <string name="formatted_date">%1$s :</string>
+</resources>
